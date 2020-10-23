@@ -10,14 +10,6 @@ let inventoryData = [
     id: "fb94f208-6d34-425f-a3f8-e5b87794aef1"
   },
   {
-    label: "Mobile",
-    value: "1000",
-    isKey:true,
-    mandatory:true,
-    recommended: false,
-    id: "fb94f208-6d34-425f-a3f8-e5b87794aef1"
-  },
-  {
     label: "Table",
     value: "1000",
     isKey:true,
